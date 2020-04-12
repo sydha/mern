@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/sydha/mern#readme",
   "dependencies": {
+    "all": "0.0.0",
     "bcryptjs": "^2.4.3",
     "config": "^3.3.1",
     "express": "^4.17.1",
@@ -25,7 +26,9 @@
     "gravatar": "^1.8.0",
     "jsonwebtoken": "^8.5.1",
     "mongoose": "^5.9.7",
-    "request": "^2.88.2"
+    "request": "^2.88.2",
+    "require": "^2.4.20",
+    "uglify-js": "^2.7.0"
   },
   "devDependencies": {
     "concurrently": "^5.1.0",
