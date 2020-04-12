@@ -28,7 +28,8 @@
     "mongoose": "^5.9.7",
     "request": "^2.88.2",
     "require": "^2.4.20",
-    "uglify-js": "^2.7.0"
+    "uglify-js": ">=2.6.0",
+    "kind-of": ">=6.0.3"
   },
   "devDependencies": {
     "concurrently": "^5.1.0",
